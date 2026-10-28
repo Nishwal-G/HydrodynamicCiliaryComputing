@@ -1,4 +1,4 @@
-# Chains of Oscillators — unified pipeline
+# Ciliary Computing 
 
 Run the project through **`python rowers.py`**. The C++ physics, existing objectives,
 measurement definitions and experiment protocols are preserved. Python implementations
